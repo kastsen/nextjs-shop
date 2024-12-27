@@ -1,4 +1,4 @@
-# slmax-meow-react-testovoe-zadanie
+# nextjs-shop
 Dynamic Next.js app with ISR, featuring TypeScript, showcasing static generation and incremental updates.
 
 ### Prerequisites
@@ -28,7 +28,3 @@ BASE_API_URL=http://localhost:3000/api/
 ```bash
 npm run dev
 ```
-
-## Why a Server and Mock API Were Used
-
-I implemented a server and mock API to simplify data handling and create a more realistic application architecture. The ISR approach requires a server to handle data updates and page generation, making this solution aligned with the task requirements.
